@@ -13,6 +13,4 @@
 - Pandas
 - NumPy
 - MySQL
-- Git
-- GitHub
 - Jupyter Notebook
