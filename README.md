@@ -4,5 +4,15 @@
 * 🎓 B.Sc Physics graduate
 * 📊 passionate about Data Science , Data Analytics &AI
 * 📚 Currently Learning Python | SQL | Power BI | Machine Learning
-* 💡Learning every day and building real- world projects
+* 💡Learning every day and building real- world projects 
 
+# Tools And Technologies
+- Python
+- SQL
+- Power BI
+- Pandas
+- NumPy
+- MySQL
+- Git
+- GitHub
+- Jupyter Notebook
